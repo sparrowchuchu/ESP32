@@ -8,9 +8,10 @@
 <img src="./IMG-3786.JPG" width="50%" />
 圖: ESP32 線路圖
 
-### 使用說明:
+### 說明:
 ##### 1. 用手勢控制鍵盤上下左右。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vqiCubyfHLA?si=SLZyxWtHAO7NofEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=vqiCubyfHLA
+按住按鈕後動作。
 撰寫中...
 
 
