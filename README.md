@@ -12,6 +12,7 @@
 ##### 1. 用手勢控制鍵盤上下左右。
 https://www.youtube.com/watch?v=vqiCubyfHLA
 按住按鈕後動作。
+##### 2. 聲控LED燈 開啟或關閉。
 撰寫中...
 
 
