@@ -10,7 +10,7 @@
 
 ### 使用說明:
 ##### 1. 用手勢控制鍵盤上下左右。
-<video src="https://youtube.com/shorts/vqiCubyfHLA" controls width="50%"/>
+<video src="https://youtube.com/shorts/vqiCubyfHLA" controls></video>
 撰寫中...
 
 
