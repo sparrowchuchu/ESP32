@@ -3,8 +3,11 @@
 2. 聲控LED燈 開啟或關閉。
 
 圖: ESP32-­WROOM­32
+
 <img src="./ESP-WROOM-32.jpg" width="50%" />
+
 圖: ESP32 線路圖
+
 <img src="./IMG-3786.JPG" width="50%" />
 
 
