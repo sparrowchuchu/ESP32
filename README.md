@@ -12,8 +12,10 @@
 https://www.youtube.com/watch?v=vqiCubyfHLA
 
 按住按鈕後動作。
+
 ### 2. 聲控LED燈 開啟或關閉。
 https://www.youtube.com/watch?v=IRhc0jwfOvA
+
 開啟: on  開燈
 關閉: off 關燈
 雜音: others 不動作
